@@ -1,0 +1,19 @@
+{
+  "name": "Plump",
+  "short_name": "Plump",
+  "theme_color": "",
+  "background_color": "#030712",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1778848559-favicon-plumpcom.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
